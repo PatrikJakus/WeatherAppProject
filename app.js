@@ -14,7 +14,7 @@ window.addEventListener('load', ()=> {
 
             const proxy = "https://cors-anywhere.herokuapp.com/"
 
-            const api = `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${lat},${long}?unitGroup=us&key=A6762J2SMQCZHKE86PG42JQ3P`;
+            const api = `${proxy}https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${lat},${long}?unitGroup=us&key=A6762J2SMQCZHKE86PG42JQ3P`;
 
             fetch(api)
                 .then(response => {
