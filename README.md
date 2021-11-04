@@ -8,8 +8,8 @@ Date        | Revision | Description | Author
 
 ## Table of Contents
 
-1. [[#Introduction|Introduction]]
-2. [[#Product Features|Product Features]]
+1. [Introduction](#Introduction)
+2. [Product Features](#Product Features)
 	1. [[#Displays continent and city of user|Displays continent and city of user]]
 	2. [[#Displays animated media corresponding to weather type|Displays animated media corresponding to weather type]]
 	3. [[#Temperature Scale is changeable suited to user preference|Temperature Scale is changeable suited to user preference]]
