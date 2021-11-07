@@ -15,14 +15,14 @@ Date        | Revision | Description | Author
 	1. [Displays continent and city of user](#displays-continent-and-city-of-user)
 	2. [Displays animated media corresponding to weather type](#displays-animated-media-corresponding-to-weather-type)
 	3. [Temperature Scale is changeable suited to user preference](#temperature-scale-is-changeable-suited-to-user-preference)
-3. [How do I?](#how-do-i?)
-	1. [Change the temperature scale?](#change-the-temperature-scale?)
-	2. [Refresh the information displayed?](#refresh-the-information-displayed?)
-	3. [Download the application?](#download-the-application?)
+3. [How do I?](#how-do-i)
+	1. [Change the temperature scale?](#change-the-temperature-scale)
+	2. [Refresh the information displayed?](#refresh-the-information-displayed)
+	3. [Download the application?](#download-the-application)
 4. [FAQ](#FAQ)
-	1. [Why won’t my location show?](#why-won’t-my-location-show?)
-	2. [Why won’t the temperature show?](#why-won’t-the-temperature-show?)
-	3. [Where does the information provided come from?](#where-does-the-information-provided-come-from?)
+	1. [Why won’t my location show?](#why-won’t-my-location-show)
+	2. [Why won’t the temperature show?](#why-won’t-the-temperature-show)
+	3. [Where does the information provided come from?](#where-does-the-information-provided-come-from)
 5. [Nonfunctional Requirements](#nonfunctional-requirements)
 	1. [Storage](#storage)
 	2. [Compatibility](#sompatibility)
@@ -46,7 +46,7 @@ The user is able to change the temperature scale via left mouse-click between Ce
 ### How do I?
 This section will explain to the user how to complete specific feature related objectives that may not be so easily identifiable. 
 
-##### Change the temperature scale?
+#### Change the temperature scale?
 If you would like to change the temperature scale between Celcius and Fahrenheit, simply use your mouse and left-click over the displayed temperature. You can cycle between the two options at your discretion.
 
 #### Refresh the information displayed?
