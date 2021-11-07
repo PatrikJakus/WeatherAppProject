@@ -20,12 +20,12 @@ Date        | Revision | Description | Author
 	2. [Refresh the information displayed?](#refresh-the-information-displayed)
 	3. [Download the application?](#download-the-application)
 4. [FAQ](#FAQ)
-	1. [Why won’t my location show?](#why-won’t-my-location-show)
-	2. [Why won’t the temperature show?](#why-won’t-the-temperature-show)
+	1. [Why won’t my location show?](#why-wont-my-location-show)
+	2. [Why won’t the temperature show?](#why-wont-the-temperature-show)
 	3. [Where does the information provided come from?](#where-does-the-information-provided-come-from)
 5. [Nonfunctional Requirements](#nonfunctional-requirements)
 	1. [Storage](#storage)
-	2. [Compatibility](#sompatibility)
+	2. [Compatibility](#compatibility)
 6. [Other Documentation](#other-documentation)
 
 ### Introduction
