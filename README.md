@@ -11,22 +11,22 @@ Date        | Revision | Description | Author
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Product Features](#Product-Features)
-	1. [Displays continent and city of user](#Displays-continent-and-city-of-user)
-	2. [Displays animated media corresponding to weather type](#Displays-animated-media-corresponding-to-weather-type)
-	3. [Temperature Scale is changeable suited to user preference](#Temperature-Scale-is-changeable-suited-to-user-preference)
-3. [How do I?](#How-do-I?)
-	1. [Change the temperature scale?](#Change-the-temperature-scale?)
-	2. [Refresh the information displayed?](#Refresh-the-information-displayed?)
-	3. [Download the application?](#Download-the-application?)
+2. [Product Features](#product-features)
+	1. [Displays continent and city of user](#displays-continent-and-city-of-user)
+	2. [Displays animated media corresponding to weather type](#displays-animated-media-corresponding-to-weather-type)
+	3. [Temperature Scale is changeable suited to user preference](#temperature-scale-is-changeable-suited-to-user-preference)
+3. [How do I?](#how-do-i?)
+	1. [Change the temperature scale?](#change-the-temperature-scale?)
+	2. [Refresh the information displayed?](#refresh-the-information-displayed?)
+	3. [Download the application?](#download-the-application?)
 4. [FAQ](#FAQ)
-	1. [Why won’t my location show?](#Why-won’t-my-location-show?)
-	2. [Why won’t the temperature show?](#Why-won’t-the-temperature-show?)
-	3. [Where does the information provided come from?](#Where-does-the-information-provided-come-from?)
-5. [Nonfunctional Requirements](#Nonfunctional-Requirements)
-	1. [Storage](#Storage)
-	2. [Compatibility](#Compatibility)
-6. [Other Documentation](#Other-Documentation)
+	1. [Why won’t my location show?](#why-won’t-my-location-show?)
+	2. [Why won’t the temperature show?](#why-won’t-the-temperature-show?)
+	3. [Where does the information provided come from?](#where-does-the-information-provided-come-from?)
+5. [Nonfunctional Requirements](#nonfunctional-requirements)
+	1. [Storage](#storage)
+	2. [Compatibility](#sompatibility)
+6. [Other Documentation](#other-documentation)
 
 ### Introduction
 The Easy Scrum Easy Go WeatherApp is an application that provides accurate weather forecasting and simple on-demand information to its users. The application utilises an advanced API (application programming interface) which provides on-demand information to the user specific to their location given that permissions are authorised to allow action to do so.
@@ -56,6 +56,7 @@ The application does not automatically refresh, new information is retrieved eve
 If you wish to download the .exe to use on your local machine, you may do so by visiting https://weatherappprojectpurplebeard.co.uk/ and clicking the link at the bottom of the page. This will give you another option if you find our website to be unresponsive.
 
 ## FAQ
+
 #### Why won’t my location show?
 Please ensure geolocation services are enabled and authorised in order for the application to be able to retrieve the correct information.
 
