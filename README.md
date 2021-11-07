@@ -5,6 +5,8 @@
 Date        | Revision | Description | Author
 ------------ | ------------ | ------------ | ------------ 
 03/11/2021 | 1.0 | Initial user documentation | Colby 
+05/11/2021 | 1.1 | Updated to include web-hosted info | Colby
+07/11/2021 | 1.2 | Downloadable .exe related information | Colby
 
 ## Table of Contents
 
@@ -16,6 +18,7 @@ Date        | Revision | Description | Author
 3. [How do I?](#How-do-I?)
 	1. [Change the temperature scale?](#Change-the-temperature-scale?)
 	2. [Refresh the information displayed?](#Refresh-the-information-displayed?)
+	3.  [Download the application?](#Download-the-application?)
 4. [FAQ](#FAQ)
 	1. [Why won’t my location show?](#Why-won’t-my-location-show?)
 	2. [Why won’t the temperature show?](#Why-won’t-the-temperature-show?)
@@ -43,11 +46,14 @@ The user is able to change the temperature scale via left mouse-click between Ce
 ### How do I?
 This section will explain to the user how to complete specific feature related objectives that may not be so easily identifiable. 
 
-##### Change the temperature scale?
+#### Change the temperature scale?
 If you would like to change the temperature scale between Celcius and Fahrenheit, simply use your mouse and left-click over the displayed temperature. You can cycle between the two options at your discretion.
 
 #### Refresh the information displayed?
 The application does not automatically refresh, new information is retrieved every time the application is run. Therefore, if you would like to see current or updated weather information, please close and re-run the application.
+
+#### Download the application?
+If you wish to download the .exe to use on your local machine, you may do so by visiting https://weatherappprojectpurplebeard.co.uk/ and clicking the link at the bottom of the page. This will give you another option if you find our website to be unresponsive.
 
 ## FAQ
 #### Why won’t my location show?
@@ -57,8 +63,7 @@ Please ensure geolocation services are enabled and authorised in order for the a
 Please ensure geolocation services are enabled and authorised in order for the application to be able to retrieve the correct information.
 
 #### Where does the information provided come from?
-*Insert API name*
-which provides real time weather information of which is utilised in WeatherApp.
+Visual Crossing Web Services API of which provides real time weather information is utilised in WeatherApp.
 
 ## Nonfunctional Requirements
 
