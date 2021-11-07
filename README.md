@@ -18,7 +18,7 @@ Date        | Revision | Description | Author
 3. [How do I?](#How-do-I?)
 	1. [Change the temperature scale?](#Change-the-temperature-scale?)
 	2. [Refresh the information displayed?](#Refresh-the-information-displayed?)
-	3.  [Download the application?](#Download-the-application?)
+	3. [Download the application?](#Download-the-application?)
 4. [FAQ](#FAQ)
 	1. [Why won’t my location show?](#Why-won’t-my-location-show?)
 	2. [Why won’t the temperature show?](#Why-won’t-the-temperature-show?)
@@ -46,7 +46,7 @@ The user is able to change the temperature scale via left mouse-click between Ce
 ### How do I?
 This section will explain to the user how to complete specific feature related objectives that may not be so easily identifiable. 
 
-#### Change the temperature scale?
+##### Change the temperature scale?
 If you would like to change the temperature scale between Celcius and Fahrenheit, simply use your mouse and left-click over the displayed temperature. You can cycle between the two options at your discretion.
 
 #### Refresh the information displayed?
