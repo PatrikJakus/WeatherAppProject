@@ -37,3 +37,15 @@ body {
 .degree-section h2{
     font-size: 40px;
 }
+
+.clicklink {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 100px;
+    color: wheat;
+}
+
+a {
+    color: wheat;
+}
